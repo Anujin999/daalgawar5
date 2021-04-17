@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title= "Миний профайл"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title= "Хичээлийн хуваарь"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title= "Миний суралцах төлөвлөгөө"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item4"
+        android:title= "Хичээлийн дүн"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item5"
+        android:title= "Дипломын явц"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"/>
+
+</menu>

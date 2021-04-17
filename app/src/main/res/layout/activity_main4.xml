@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity4">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Суралцах төлөвлөгөө"
+        android:textAlignment="center"
+        android:textColor="@color/teal_700"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="БНСУ-д магистрын хөтөлбөрт суралцах төлөвлөгөө: "
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="12dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:textStyle="italic"
+        android:text="Миний бие Анужин нь Хүрээ Мэдээлэл холбоо технологийн дээр сургуулийг 2021 онд Бизнесийн удирдлага мэргэжлээр 4өөс 3,8 голчтой суралцаж төгссөн.
+        Бакалаврт суралцаж байх 4 жилдээ зөвхөн бизнесийн талаар гэлтгүй код бичих, илтгэл тавих, гадаад оронлуу явж шинэ соёлд дасан зохицох, шинэ найз нөхөдтэй болох гэх мэт маш олон төрлийн зүйлийг олж авсан. "/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:text="Хүрээ дээд сургуулийн бизнес удирдлагын тэнхмийг сонгож суралцсан маань амьдралдаа хийсэн зөв сонголтуудын маань нэг төдийгүй нүдийг минь нээж өгсөн алхам болсон гэж үздэг. Учир нь манай тэнхим бизнесийн байгууллагын бүхий л түвшний мэдлэгийг олгож чадсан бол Хүрээ дээд сургууль маань БНСУ-д солилцоогоор суралцах боломжийг маань хангаж өгсөн. Яагаад заавал сагистрын хөтөлбөрөөр Солонгос улсыг зорьж байгаа зорилго маань миний хоёр жилийн турш тэнд суралцаж амьдарсан туршлагатай минь холбоотой."
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:textStyle="italic"
+        android:text="Хэрвээ би 2022 онд БНСУ-д магисирын хөтөлбөрт сонгогдож суралцвал бизнесийн удирдлагын мэргэжлээ улам нарийвчлан бизнесийн эрх зүй, хууль тал руугаа сурах сонирхолтой байна. Учир нь Монгол улсад маш олон жижиг дунд ААН, байгууллагууд шинээр бизнес эрхлэх сонирхолтой байдаг ч хууль тогтоомж, татвар, торгуулийн улмаас дөнгөж гарч ирсэн даруйдаа дампуурах магадлал маш их байдаг. Бизнесийн ангийн оюутны хувьд үзэж байгаагаар энэ бүх ААН-үүдийн дампуурал нь улс,хотын захиргаанаас явуулж буй дарамт шахалт, мөн зах зээл дээр аль хэдийн монопол болж гарч ирсэн том компаниудын хаалт гэж үздэг. Тиймээс аль болох нийгэмдээ шинэ зүйлс хийж бүтээхийг хүсэж байгаа залуусаа ирээдүйд нь дэмжиж зах зээлийг нь нээлттэй байлгаж өгөхийн төлөө энэхүү мэргэжлээр гүнзгийрүүлж сурах төлөвлөгөөтэй байна."/>
+
+
+
+</LinearLayout>
